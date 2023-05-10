@@ -1,2 +1,2 @@
 
-[Portfolio Page](https://j7tsao.github.io/aoxor)
+[aoxor Sportswear](https://j7tsao.github.io/aoxor)
