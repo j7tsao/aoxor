@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+// import { useState } from "react";
+// import MenProducts from "./components/MenProducts";
+// import WomenProducts from "./components/WomenProducts";
+// import CartItemsContext from "./components/CartItemsContext";
+// import Cart from "./components/Cart";
+// import StickyBar from "./components/StickyBar";
+import { CartProvider } from "./components/CartItemsContext";
+// import StickyBar from "./components/StickyBar";
+// import Cart from "./components/Cart";
+import Home from "./components/Home";
+// import Home from "./components/Home";
+// import MenProducts from "./components/MenProducts";
+
+// export const CartItemsContext = createContext();
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <CartProvider>
+        <Home />
+      </CartProvider>
+    </>
   );
 }
 
