@@ -47,19 +47,19 @@ function MenProducts() {
         {
           color: "Teal Green",
           urls: [
-            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96693873_2937507696341841_3407574344807743488_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=9ab401&_nc_ohc=nspDnd_NPkYAX_tpu9e&_nc_ht=scontent-lax3-1.xx&oh=00_AfA5GD9_DygRjD5VcitT8Pearn4EVbP6Ifzt7lwmijaRoQ&oe=64573C52",
-            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/95913366_3961858833855455_2199711193348702208_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=9ab401&_nc_ohc=q1s2FC1xVQ0AX8FkYuH&_nc_ht=scontent-lax3-1.xx&oh=00_AfAfaYVozlX2VwWlgB7wyB7J7HCSiWgLL76H4vvNo0Rang&oe=6456BB94",
-            "https://m.media-amazon.com/images/I/71T4SstZBjL._AC_UL1500_.jpg",
+            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96693873_2937507696341841_3407574344807743488_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=9ab401&_nc_ohc=mH3ZDEYfQFsAX8UESOl&_nc_ht=scontent-lax3-1.xx&oh=00_AfDWgLk2SWx9yxG13rNKA-hRjiTNOSSk_3LnvrV7AS99uA&oe=64611F92",
+            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/95913366_3961858833855455_2199711193348702208_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=9ab401&_nc_ohc=T3KwD3BImxsAX9rYx4b&_nc_ht=scontent-lax3-1.xx&oh=00_AfBnuiQgON9Dgum9F_EhkyrKePWBRZOHsgg3-FfJgTsOyQ&oe=64609ED4",
+            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/95820515_2921611867961754_6322912559519236096_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=9ab401&_nc_ohc=TW2Tt_FQ8DoAX_zXQ4F&_nc_ht=scontent-lax3-2.xx&oh=00_AfCPopF3oaIwW_X6Xy96WiJgFCmducOCLMe_S81o1HY8_w&oe=6460DA38",
           ],
         },
         {
           color: "Yale Blue",
           urls: [
-            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/96437039_3032061936840746_5139628784340697088_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=9ab401&_nc_ohc=R1HsB7ANsdkAX8RufIC&_nc_ht=scontent-lax3-2.xx&oh=00_AfCe2uVs001FRUE9lIguU22V0laNvwxjPXgCnXUYZcQWmw&oe=64577BCA",
-            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/97125632_3712944292109544_7979737803594399744_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=9ab401&_nc_ohc=tfRw61180wwAX9WI3cd&_nc_ht=scontent-lax3-1.xx&oh=00_AfAdnU4T9uYoytmt9TRHtR7_N6a6WmcSgPy5m1QN-X6LEw&oe=64560974",
-            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/97125632_3302060799805063_4177401345185153024_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=9ab401&_nc_ohc=nSfi4CSbXQEAX9Ai4tY&_nc_ht=scontent-lax3-1.xx&oh=00_AfDTWfn4fJ_GOmVJ1xt7HYQIt2MdYxflsoL6LhGvxnFpXw&oe=64566A44",
-            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/95928787_2955160967936021_4095560936633401344_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=9ab401&_nc_ohc=9TEtNkCuTCIAX_oXRQE&_nc_ht=scontent-lax3-2.xx&oh=00_AfCbhzTB1svFH9tnqRcvw71il2qYzx1xrdn5o7ZJGYdCSQ&oe=645603B3",
-            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/97163367_2876488079113394_1216841497123487744_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=9ab401&_nc_ohc=06qQ6AhyEM8AX_QbAp3&_nc_ht=scontent-lax3-2.xx&oh=00_AfBxWysGXF-6MaXkEqKCLasW4A1aJH5kqbto41hZXqRFrA&oe=6456ACBE",
+            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/96437039_3032061936840746_5139628784340697088_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=9ab401&_nc_ohc=NR6oG28qIr4AX8Pp_dY&_nc_ht=scontent-lax3-2.xx&oh=00_AfC0V71K1PBGV9S8_m0mLzghzWISU8QvQG0hVFqD0rN4lg&oe=64615F0A",
+            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/97125632_3712944292109544_7979737803594399744_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=9ab401&_nc_ohc=g6WUwuX1hB8AX_nzYpu&_nc_ht=scontent-lax3-1.xx&oh=00_AfBMfH61QFWoES_2FZISW-CfZwQo1fC8iV8kvhHUfDBgjw&oe=6461E6F4",
+            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/95928787_2955160967936021_4095560936633401344_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=9ab401&_nc_ohc=-UivG-V7QQgAX9mOMND&_nc_ht=scontent-lax3-2.xx&oh=00_AfAZyRiPM8_OPgZiJ1fuf3Gm7qipE5GCx5eCAFEvYZiKzw&oe=6461E133",
+            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/97125632_3302060799805063_4177401345185153024_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=9ab401&_nc_ohc=duFOWjERUn0AX-Nr9DX&_nc_ht=scontent-lax3-1.xx&oh=00_AfAIzVjIYFbHp-7WysigU-wV_4jYobygP5kZjTyXjCZ_XQ&oe=64604D84",
+            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/97163367_2876488079113394_1216841497123487744_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=9ab401&_nc_ohc=-mI16QhianwAX9ZF-4J&_nc_ht=scontent-lax3-2.xx&oh=00_AfAyCV9szbz5hI56pxXs9Yid7otRRltkIgr5tuG00Vy8kQ&oe=64608FFE",
           ],
         },
       ],

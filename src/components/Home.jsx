@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function Home() {
   return (
-    <>
+    <div className="wholepage">
       <StickyBar />
       <div className="homepage">
         <div className="container">
@@ -16,7 +16,7 @@ function Home() {
             </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 
