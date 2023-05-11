@@ -2,6 +2,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Ubuntu:wght@700&family=Yesteryear&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
 
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+*, 
+*:before, *:after {
+	box-sizing: inherit;
+}
+
 /* ProductDetail */
 .app {
   max-width: 1200px;
@@ -209,6 +224,11 @@
 }
 
 /* Homepage */
+.screen {
+  border: 1px solid lightcoral;
+  width: 100%;
+  height: 100vh;
+}
 .homepage {
   width: 100%;
   height: 100vh;
@@ -217,14 +237,16 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  border: 1px solid orange;
 }
 .homepage .container {
   width: 50%;
-  height: 50vh;
+  height: 100vh;
   display: flex;
-  flex-direction: row;
+  border: 1px solid lightblue;
+  /* flex-direction: row; */
   /* border:2px solid white; */
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
   align-items: center;
 }
@@ -241,8 +263,8 @@
   align-items: center;
   cursor: pointer;
 }
-.homepage .container .men h3, 
-.homepage .container .women h3 {
+.homepage .container .men p, 
+.homepage .container .women p {
   font-family: 'Poppins';
   font-size: 40px;
   color: white;
@@ -343,9 +365,7 @@
 /*=====================================================================*/
 /* RESPONSIVE */
 @media only screen and (max-width: 500px) {
-  /* .box .row h2 {
-    font-size: 20px;
-  } */
+
   .details .images {
     width: 300px;
   }
@@ -356,6 +376,9 @@
   }
   .thumb img {
     width: 45px;
+  }
+  .box .row h2 {
+    font-size: 20px;
   }
   .box .colors .color-unclicked, 
   .box .colors .color-clicked  {
@@ -400,7 +423,7 @@
   }
 
   /* Homepage */
-  .wholepage .homepage {
+  .homepage {
     max-width: 100%;
     height: 100vh;
     margin: 0;
@@ -411,10 +434,9 @@
   }
   .homepage .container {
     width: 70%;
-    height: 50vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
-    /* border:2px solid white; */
     flex-wrap: wrap;
     align-items: center;
   }
@@ -431,8 +453,8 @@
     align-items: center;
     cursor: pointer;
   }
-  .homepage .container .men h3, 
-  .homepage .container .women h3 {
+  .homepage .container .men p, 
+  .homepage .container .women p {
     font-family: 'Poppins';
     font-size: 30px;
     color: white;

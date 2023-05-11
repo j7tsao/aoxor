@@ -4,19 +4,19 @@ import { Link } from "react-router-dom";
 
 function Home() {
   return (
-    <div className="wholepage">
+    <>
       <StickyBar />
       <div className="homepage">
         <div className="container">
             <div className="men">
-                <Link to="/men" style={{ textDecoration: 'none' }}><h3>MEN</h3></Link>
+                <Link to="/men" style={{ textDecoration: 'none' }}><p>MEN</p></Link>
             </div>
             <div className="women">
-                <Link to="/women" style={{ textDecoration: 'none' }}><h3>WOMEN</h3></Link>
+                <Link to="/women" style={{ textDecoration: 'none' }}><p>WOMEN</p></Link>
             </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }
 
