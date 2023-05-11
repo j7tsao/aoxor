@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aoxor/static/css/main.d06fad8f.css",
-    "main.js": "/aoxor/static/js/main.2f6f5607.js",
+    "main.css": "/aoxor/static/css/main.4f396385.css",
+    "main.js": "/aoxor/static/js/main.9f33166a.js",
     "static/js/787.5d0209a0.chunk.js": "/aoxor/static/js/787.5d0209a0.chunk.js",
     "index.html": "/aoxor/index.html",
-    "main.d06fad8f.css.map": "/aoxor/static/css/main.d06fad8f.css.map",
-    "main.2f6f5607.js.map": "/aoxor/static/js/main.2f6f5607.js.map",
+    "main.4f396385.css.map": "/aoxor/static/css/main.4f396385.css.map",
+    "main.9f33166a.js.map": "/aoxor/static/js/main.9f33166a.js.map",
     "787.5d0209a0.chunk.js.map": "/aoxor/static/js/787.5d0209a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d06fad8f.css",
-    "static/js/main.2f6f5607.js"
+    "static/css/main.4f396385.css",
+    "static/js/main.9f33166a.js"
   ]
 }
