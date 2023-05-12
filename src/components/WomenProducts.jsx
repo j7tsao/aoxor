@@ -20,9 +20,9 @@ function WomenProducts() {
         {
           color: "Wine Red",
           urls: [
-            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96687115_3083458535043592_7893539149993476096_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=9ab401&_nc_ohc=tFEZjdtthYAAX_3sYj_&_nc_ht=scontent-lax3-1.xx&oh=00_AfBQLvZe2gyAj6pcWgTLyF31jHBtIN8ZDsxicdDvvpJyiA&oe=645DB799",
+            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96687115_3083458535043592_7893539149993476096_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=9ab401&_nc_ohc=dnG9623tDr0AX_7StO7&_nc_ht=scontent-lax3-1.xx&oh=00_AfCMxBI5gQcif6VMtudXEuDSdcxmFqgzscWfJt0TrQaOiA&oe=6463A659",
             "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96511660_2979873255461674_2281180649870065664_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=9ab401&_nc_ohc=D2CFq-4bpNYAX-QcnCc&_nc_ht=scontent-lax3-1.xx&oh=00_AfBLM92E4lyKCuwfCvaMBT8GTXzo_Mbkb5wK7u97_gYirQ&oe=64623F20",
-            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/96537434_4371822869510066_1169390762861789184_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=9ab401&_nc_ohc=5c_TN9T8ppkAX-Wlgn9&_nc_oc=AQnfj6ZFwMrH7Mg-G4W4d-SiKPrwnd6WKjjafj-ZjRCavlOkZqd88Rbmfj0WIFP8SZDGIyqYRe3zbz5JmjrnNTgm&_nc_ht=scontent-lax3-2.xx&oh=00_AfAYPcbeOvFUmpv-SPJq67G0L8aK48FCYBagb-ru77t3pQ&oe=645D187F",
+            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/96537434_4371822869510066_1169390762861789184_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=9ab401&_nc_ohc=hTLYtbuLRq4AX_mX2IU&_nc_oc=AQn_Pxrd62E67fupj6oIzH7B2shKtv8Zt4hoZ_lPzW6rlvnb3c7MA0-3MhKZZ_Z51ImODp7OA4dLwzGyq9CAWISG&_nc_ht=scontent-lax3-2.xx&oh=00_AfAP5OFChXQtwc-ySXSuIzbBG8GEqZRF_X554YQK64eQcQ&oe=6463073F",
             "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/95587684_2813069275466795_7542227773121626112_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=9ab401&_nc_ohc=BUIj4aLqfS0AX_wFwgw&_nc_ht=scontent-lax3-1.xx&oh=00_AfCpQjNJrNlF9K58Gh-B4Lqfj1BupVHKOrlxKY4j4_lEZw&oe=645D7D7E",
           ],
         },
@@ -58,8 +58,8 @@ function WomenProducts() {
           color: "Salmon Pink",
           urls: [
             "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/97249937_3235536643164615_6272503181201113088_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=9ab401&_nc_ohc=8dRtfCb6cckAX81MP_A&_nc_ht=scontent-lax3-1.xx&oh=00_AfDxbS7owHNzepdKHV4LRMcCSBaYw24OfqTOwSiC_FnFQw&oe=64620E18",
-            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/97174967_3011622752191756_9156716631206920192_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=9ab401&_nc_ohc=nXGCHqFp01sAX-r0VKj&_nc_ht=scontent-lax3-2.xx&oh=00_AfBFIHNy2QZnDFOphYnzY2lbX6_St17T_oxrWCkNnj-hnA&oe=645DD7BC",
-            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/97947321_3784990898209880_3079555219827195904_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=9ab401&_nc_ohc=-Gbe2TrGpN0AX_HPcCj&_nc_ht=scontent-lax3-2.xx&oh=00_AfDO1xoL6MQMu58daaACdCsrKJ-yiBXwEnCOZ0mNEqMpSw&oe=645CB58B",
+            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/97174967_3011622752191756_9156716631206920192_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=9ab401&_nc_ohc=t2xdIaGR5iQAX9XIczJ&_nc_ht=scontent-lax3-2.xx&oh=00_AfBpU4B4SsjKwBWkwuKlZx-xQCNGolv8FJWWg9thHwrtmg&oe=6463C67C",
+            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/97947321_3784990898209880_3079555219827195904_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=9ab401&_nc_ohc=1q0gKHL8I5sAX_YYsQI&_nc_ht=scontent-lax3-2.xx&oh=00_AfB5ee6AkDsIi7l4gTHsGy6TaR2kTX0GihfQPZIpzCA4sw&oe=6462A44B",
             "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/95587684_2813069275466795_7542227773121626112_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=9ab401&_nc_ohc=BUIj4aLqfS0AX_wFwgw&_nc_ht=scontent-lax3-1.xx&oh=00_AfCpQjNJrNlF9K58Gh-B4Lqfj1BupVHKOrlxKY4j4_lEZw&oe=645D7D7E",
           ],
         },
