@@ -95,10 +95,10 @@ function WomenProducts() {
         {
           color: "Flamingo Pink",
           urls: [
-            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96671848_2658292280942954_8299740509555916800_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=9ab401&_nc_ohc=7fkNWXjt_1cAX-g2fWO&_nc_ht=scontent-lax3-1.xx&oh=00_AfDQNakn51bejPl88ktxTGy-9z1N1JAne3lFFIorTmAqgg&oe=645FFCDD",
-            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/96231419_2992806524135775_3563728631156965376_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=9ab401&_nc_ohc=VsWZuTo8HSgAX-VW00m&_nc_ht=scontent-lax3-2.xx&oh=00_AfBOARiZQUrIibewps_Z3WakSomlOWKBr_jgLpIQry_CUg&oe=645F579E",
+            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96671848_2658292280942954_8299740509555916800_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=9ab401&_nc_ohc=1GrnY3Rwo7kAX9Z1ZMg&_nc_ht=scontent-lax3-1.xx&oh=00_AfCQeRccRqszEfjDr9OCUn-e5L1oTtsGiGKOXySJNmS8Og&oe=6465EB9D",
+            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/96231419_2992806524135775_3563728631156965376_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=9ab401&_nc_ohc=CuTGNYEN8isAX8XmO8H&_nc_ht=scontent-lax3-2.xx&oh=00_AfBrvw4kND-7tRthvV89zo-E4flc2VBCxioACpkYEgQfZQ&oe=6465465E",
             "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96512950_2948985561814426_576199678421368832_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=9ab401&_nc_ohc=EiG4EqMCTFYAX-TLQYL&_nc_ht=scontent-lax3-1.xx&oh=00_AfBvmfknEJcSN1Dtjf2YPHzJXHB6c9If5Ok-XB7h7lEZpg&oe=64606295",
-            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/95797036_2724152837693378_3641014634913202176_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=9ab401&_nc_ohc=k8l0z5aWdtEAX9qXucN&_nc_oc=AQnSYnJG6hV6oegF1VDqdNmrklm_Tixp9HLuXkHKDVhee542CIvsjcY4E2U5xsXHHGN23kGPCwKoD-PoNJEhGLMx&_nc_ht=scontent-lax3-1.xx&oh=00_AfCjJ5fjNz7qpFgV2Dt8VZELBC0Pe-P7kFA9wXVDABas4A&oe=645F4BF8",
+            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/95797036_2724152837693378_3641014634913202176_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=9ab401&_nc_ohc=PPqaOPrBsyQAX9-3acx&_nc_oc=AQkS_wrXbzvI0AQUkWccSM6bz9RZ5oLdd563HJB1sJ1BKSmfCULk6HSOw9iVT3hfDdZ3aRaljfeMrC7mcY0C0OvB&_nc_ht=scontent-lax3-1.xx&oh=00_AfDI8kgTDLRODqaMxXde2zBmfVLTJgz-P8tc2CkKbJeftQ&oe=64653AB8",
             "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96551849_3139773856084139_7581789472799326208_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=9ab401&_nc_ohc=xlIC9hDFhasAX_NXf0D&_nc_ht=scontent-lax3-1.xx&oh=00_AfCZxswKHOycihWy2bWbZppdK-BJQl8hlJKNUrXlxvb8lA&oe=645F9402",
           ],
         },
@@ -132,7 +132,7 @@ function WomenProducts() {
           color: "Black",
           urls: [
             "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/96540602_2936430849786723_5211584634898350080_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=9ab401&_nc_ohc=tOu2kAri1G4AX8Q9cI6&_nc_ht=scontent-lax3-2.xx&oh=00_AfAFE0oI63bsz8IWl6tkjHvX-bZ5vppEVg5MYF_9F-aX-w&oe=64613C1A",
-            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/97283784_2793397570758571_7988735072884752384_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=9ab401&_nc_ohc=RJaG6ZfPwHcAX9WnOj6&_nc_ht=scontent-lax3-2.xx&oh=00_AfCMjPvPX0DOZXFVSVYw-9Drsvv4ocyLEjznEU2-n63FHw&oe=645F7CE8",
+            "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/97283784_2793397570758571_7988735072884752384_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=c48759&_nc_ohc=O8ot7KJLQM8AX9T9WnS&_nc_ht=scontent-lax3-2.xx&oh=00_AfDvQ0xr2R0ITEziAbvNPjlf0vmSozIHZcvukRQ7s44Igg&oe=64656BA8",
             "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/96225966_3151844408210579_568978777539870720_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=9ab401&_nc_ohc=lSTlPSsXiDIAX-slnik&_nc_ht=scontent-lax3-2.xx&oh=00_AfDg5HYrQWLvhxSGvBa0P30TgJyFXpXsYvctWKn26Rt2mg&oe=6460B075",
             "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96712700_3787201624684539_4545137072133898240_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=9ab401&_nc_ohc=PazX1iFS9fsAX84jMiy&_nc_ht=scontent-lax3-1.xx&oh=00_AfBe6EmA32Nui8h6lzfCKA6h3bJ7x6eziaTNy5Pfy7gC2w&oe=64613F58",
             "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96818114_2485684901532588_4634598277382144000_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=9ab401&_nc_ohc=_JIoWoLHvUQAX9eEwGe&_nc_ht=scontent-lax3-1.xx&oh=00_AfDMRyYWEmo7ye-PV464UxGPTg5vx2Wj_aV3DtmjaEjxlA&oe=646028C7",
@@ -169,7 +169,7 @@ function WomenProducts() {
         {
           color: "Black",
           urls: [
-            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96216499_2954993884585878_570844103311360_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=9ab401&_nc_ohc=M6bDlzSOnf0AX-fnEnh&_nc_ht=scontent-lax3-1.xx&oh=00_AfAscJqVYgcxv_g4x0JjreI0otRCNhnK4XbY9COfTnC9KQ&oe=646001F7",
+            "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/96216499_2954993884585878_570844103311360_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=9ab401&_nc_ohc=jt5jhPlWvhIAX_v_ZWG&_nc_ht=scontent-lax3-1.xx&oh=00_AfCnp1_VXZ3ykuqCjxNn1GDxWG57ltOV0wGZZ1Wsvbf5mg&oe=6465F0B7",
             "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/95757469_2974453475953283_4267898745653297152_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=9ab401&_nc_ohc=O8JKV7_VV3oAX92sYpp&_nc_ht=scontent-lax3-2.xx&oh=00_AfBfUsbpTS3y4xwSoJulCLbhfrgdSDQ-EAsrxTXQ7QW5cA&oe=6460722C",
             "https://scontent-lax3-2.xx.fbcdn.net/v/t45.5328-4/96760860_2975060049229368_2910335544179294208_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=9ab401&_nc_ohc=xYGVXen0u5cAX9cTHAn&_nc_ht=scontent-lax3-2.xx&oh=00_AfCeXf194-0Pa8g5aZ4B4tYvqTVDggtT_NKl_zj0paniOA&oe=6460D132",
             "https://scontent-lax3-1.xx.fbcdn.net/v/t45.5328-4/95491897_2836886079763589_1284247933637623808_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=9ab401&_nc_ohc=APJg91Jz3icAX9s---h&_nc_ht=scontent-lax3-1.xx&oh=00_AfD4T6k-TEWFWaEin7EWzRIVtU0o9xnh0owZKVxenEIQAw&oe=6460AADB",
@@ -686,6 +686,12 @@ function WomenProducts() {
         product={productsData["unwind"]}
         initialSelectedColor={productsData["unwind"].colors[0]}
         initialSelectedSize={productsData["unwind"].sizes[0]}
+        initialSelectedImageIndex={0}
+      />
+      <ProductDetail
+        product={productsData["liberty"]}
+        initialSelectedColor={productsData["liberty"].colors[0]}
+        initialSelectedSize={productsData["liberty"].sizes[0]}
         initialSelectedImageIndex={0}
       />
       <ProductDetail
