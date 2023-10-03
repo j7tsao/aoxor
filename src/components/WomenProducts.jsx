@@ -379,11 +379,11 @@ function WomenProducts() {
         {
           color: "Black",
           urls: [
-            "https://i.ibb.co/k55mZVQ/DSC00998-G-II.jpg",
-            "https://i.ibb.co/PwyvGjm/DSC06144-G-II.jpg",
-            "https://i.ibb.co/3Fyt7SG/DSC06151-G-II.jpg",
-            "https://i.ibb.co/mGcBn0G/DSC06182-G-II.jpg",
-            "https://m.media-amazon.com/images/I/71cXYsgj41L._AC_UX679_.jpg",
+            "https://i.ibb.co/tKtQ2xb/DSC00998-G-II.jpg",
+            "https://i.ibb.co/n84Sjyr/DSC06144-G-II.jpg",
+            "https://i.ibb.co/MGvTbWn/DSC06151-G-II.jpg",
+            "https://i.ibb.co/cgXn5Pn/DSC06182-G-II.jpg",
+            "https://i.ibb.co/CzXtLM3/womens-shorts-size-chart.jpg",
           ],
         },
       ],
